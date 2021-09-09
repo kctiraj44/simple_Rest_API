@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f808b6-8830-44d0-aee6-84d26789705f" name="Changes" comment="" />
+    <list default="true" id="22f808b6-8830-44d0-aee6-84d26789705f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/springrest/SpringRestApi/SpringRestApiApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/springrest/SpringRestApi/controller/MyController.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1xhUBTPNex8mcujGhU1dMT8hrjC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,6 +69,7 @@
       <updated>1630806681220</updated>
       <workItem from="1630806684275" duration="179000" />
       <workItem from="1630806910586" duration="985000" />
+      <workItem from="1630971152470" duration="570000" />
     </task>
     <servers />
   </component>
