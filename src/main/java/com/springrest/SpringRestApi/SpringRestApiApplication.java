@@ -13,6 +13,3 @@ public class SpringRestApiApplication {
 	}
 
 }
-
-
-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
