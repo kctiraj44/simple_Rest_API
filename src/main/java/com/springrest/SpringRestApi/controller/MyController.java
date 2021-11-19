@@ -25,7 +25,7 @@ public class MyController {
 	public String home() {
 		
 		
-		return "This is home page";
+		return "This is home page : I have added myself";
 	}
 
 	//get the courses
