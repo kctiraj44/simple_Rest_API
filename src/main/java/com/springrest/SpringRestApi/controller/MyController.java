@@ -25,7 +25,7 @@ public class MyController {
 	public String home() {
 		
 		
-		return "This is home page : I have adde ";
+		return "This is home page : I have adde   aaaaaa  bbbbb ccccc dddddd";
 	}
 
 	//get the courses
