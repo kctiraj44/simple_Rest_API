@@ -5,9 +5,8 @@ public class Course {
 	private long id;
 	private String title;
 	private String description;
-	
-	
-	
+
+
 	public Course(long id, String title, String description) {
 		super();
 		this.id = id;

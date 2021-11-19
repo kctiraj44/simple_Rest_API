@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f808b6-8830-44d0-aee6-84d26789705f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22f808b6-8830-44d0-aee6-84d26789705f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +36,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Spring Boot.SpringRestApiApplication (1)">
     <configuration name="SpringRestApiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -85,6 +84,10 @@
       <workItem from="1633286167446" duration="45000" />
       <workItem from="1633286234422" duration="138000" />
       <workItem from="1633408200617" duration="1213000" />
+      <workItem from="1633894026368" duration="936000" />
+      <workItem from="1634592255647" duration="357000" />
+      <workItem from="1635139739405" duration="581000" />
+      <workItem from="1635868384289" duration="263000" />
     </task>
     <servers />
   </component>
