@@ -25,7 +25,7 @@ public class MyController {
 	public String home() {
 		
 		
-		return "This is home page : I have adde   aaaaaa  bbbbb ccccc dddddd";
+		return "This is home page ,--------------";
 	}
 
 	//get the courses
@@ -37,8 +37,7 @@ public class MyController {
 	}
 	
 	@GetMapping("/courses/{courseId}")
-	public Course getCourse(@PathVariable String courseId){
-		
+	public Course getCourse(@PathVariable String courseId) {
 		return this.courseservice.getCourse(Long.parseLong(courseId));
 	}
 	
